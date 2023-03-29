@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Laércio Ávila</h1>
 <h3 align="center">A passionate fullstack Java developer from Brazil.</h3>
 
-- 🔭 I’m currently working with these two projects [Meteriologia IFTO](https://github.com/laercioAAAvila/meteriologiaifto) and [Clan Agulhas Negras](https://github.com/laercioAAAvila/clan).
+- 🔭 I’m currently working with these two projects [Meteriologia IFTO](https://github.com/laercioAAAvila/meteriologiaifto) and [ICM Dianópolis](https://github.com/laercioAAAvila/icm.dno).
 
 - 🌱 I’m currently learning **Spring Boot, Java, MySQL, APIREST...**
 
@@ -25,8 +25,8 @@
 <h3 align="center">Gosto muito de trabalhar e estudar Java FullStack, sou do Brasil.</h3>
 
 
-- 🔭 Atualmente eu estou trabalhando com esses dois projetos [Meteriologia IFTO](https://github.com/laercioAAAvila/meteriologiaifto) e [Clan Agulhas Negras](https://github.com/laercioAAAvila/clan).
-
+- 🔭 Atualmente eu estou trabalhando com esses dois projetos [Meteriologia IFTO](https://github.com/laercioAAAvila/meteriologiaifto) e [ICM Dianópolis](https://github.com/laercioAAAvila/icm.dno).
+-
 - 🌱 Atualmente estou aprendendo **Spring Boot, Java, MySQL, APIREST...**
 
 - 💬 Pergunte-me sobre **Java, MySQL...**
